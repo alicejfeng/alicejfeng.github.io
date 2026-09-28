@@ -4,11 +4,11 @@ title: "tree series"
 layout: single
 author_profile: true
 gallery:
-  - url: /assets/images/works/IMG_5844.jpeg
-    image_path: /assets/images/works/IMG_5844.jpeg
+  - url: /assets/images/IMG_5844.jpeg
+    image_path: /assets/images/IMG_5844.jpeg
     alt: "tree series-001"
-  - url: /assets/images/works/IMG_5845.jpeg
-    image_path: /assets/images/works/IMG_5845.jpeg
+  - url: /assets/images/IMG_5845.jpeg
+    image_path: /assets/images/IMG_5845.jpeg
     alt: "tree series-002"
 ---
 
