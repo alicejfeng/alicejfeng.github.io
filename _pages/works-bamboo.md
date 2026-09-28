@@ -1,5 +1,5 @@
 ---
-permalink: /works-bamboo/
+permalink: /works-bamboos/
 title: "Bamboo Series"
 layout: single
 author_profile: true
