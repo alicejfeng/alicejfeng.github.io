@@ -9,7 +9,7 @@ author_profile: true
 
 - [trees](/works-trees/)
 - [bamboos](/works-bamboos/)
-- [creatures](/works-friends/)
+- [friends](/works-friends/)
 - [flowers](/works-flowers/)
 - [doodles](/works-doodles/)
 - [photographs](/works-photographs/)
