@@ -8,35 +8,20 @@ header:
   overlay_filter: 0.4
 ---
 
-Alice Jia Feng is an artist. She graduated with distinction from the University of Edinburgh, earning a Master's degree in Social Anthropology. She began studying traditional Chinese painting in childhood and has since exhibited her work in national, provincial, and local art museums across China.
+Alice Jia Feng is an artist from China. She graduated with distinction from the University of Edinburgh, earning a Master's degree in Social Anthropology. She began studying traditional Chinese painting in childhood and has since exhibited her work in national, provincial, and local art museums.
 
 ## Group Exhibition
-- **2015.01** — "Memories of Dreams" The First Edinburgh Student Art Festival (Visual Arts).
-- **2018** — "Shan Hai Jing" (Classic of Mountains and Rivers) First Jiangsu New Year Paintings, Comic Strips, Promotion Posters, Cartoons, and Illustrations
-- Suzhou Hanshan Art Museum, Suzhou, Jiangsu
-- Jiangsu Provincial Modern Art Museum, Suzhou, Jiangsu
-- Yangzhou Art Museum, Yangzhou, Jiangsu
-- Xuzhou Li Keran Art Museum, Xuzhou, Jiangsu
-- Xuzhou Art Museum, Xuzhou, Jiangsu.
-- **2020** — "Gangdengtengbu Xieqintu" (Excellence Award) "Xiangning Rugu" The Second National Art Exhibition (Chinese Paintings and Oil Paintings) (Excellence Award) by China Artists Association.
-- National Art Museum of China, Beijing
-- **2021** — "Jiangnan's Pomegranates in September" "Xieyi·Suzhou" Biennial Chinese Painting Exhibition (Birds and Flowers Chapter) by China Artists Association.
-- Suzhou Art Museum, Suzhou, Jiangsu
-- **2021** — "Green Mountains, New Homeland" Painting and Calligraphy Exhibition Celebrating the Centenary of the Communist Party of China.
-- Wumen Art Museum, Suzhou, Jiangsu
-- **2022.09** — "Dawn in the Mountain Village" Painting and Calligraphy Exhibition Celebrating the 20th National Congress of the Communist Party of China.
--  Wumen Art Museum, Suzhou, Jiangsu
-- **2023.06** — Painting and Calligraphy Exhibition Commemorating the 75th Anniversary of the Central Committee of the Communist Party of China Issuing the "May 1st Manifesto".
-- Art Museum of Chinese National Center for Performing Arts, Beijing
-- **2023.10** — Painting and Calligraphy Exhibition Commemorating the 65th Anniversary of Suzhou Municipal Committee of the Revolutionary Committee of Chinese Kuomintang.
-- Wumen Art Museum, Suzhou, Jiangsu
-- **2024.09** — Painting and Calligraphy Exhibition Celebrating the 75th Anniversary of the Founding of the People's Republic of China.
-- Xuzhou Art Museum, Xuzhou, Jiangsu
-- **2024.09** — Painting and Calligraphy Exhibition Commemorating the 115th Anniversary of the Founding of the Nanshe Society and the 100th Anniversary of Whampoa Military Academy.
-- Wumen Art Museum, Suzhou, Jiangsu
-- **2024.11** — Cross-Strait Painting and Calligraphy Exhibition of 2024.
-- Wuxi Ling Shan Temple, Wuxi, Jiangsu.
-- **2025.03** — Exhibition of Wuxi Sun Yat-sen Calligraphy and Painting Academy of Revolutionary Committee of Chinese Kuomintang.
-- Zhongxiang Art Museum, Wuxi, Jiangsu
-- **2025.08** — Art Exhibition Commemorating the 80th Anniversary of the Victory in the Chinese People's War of Resistance by the Cross-strait Youth.
-- Art Museum of Jiangsu Taiwan Town, Suzhou, Jiangsu
+
+- **2015.01** — *The Memory of Dreams*, selected for the 1st Edinburgh Student Arts Festival Visual Arts Exhibition, Edinburgh, UK.
+- **2018** — *Classic of Mountains and Seas* series, selected for “Inheriting the Past and Opening the Future — The First Jiangsu Exhibition of New Year Pictures, Lianhuanhua, Posters, Comics, and Illustrations,” Suzhou Hanshan Art Museum; Jiangsu Modern Art Museum; Yangzhou Art Museum; Li Keran Art Museum, Xuzhou; Xuzhou Art Museum.
+- **2020** — *Gangdeng Tengbu · Xieqin*, awarded membership qualification (Excellence Award) at the 2nd “Xiangning as Before” National Art Exhibition (Chinese Painting and Oil Painting), National Art Museum of China, Beijing.
+- **2021** — *Red Pomegranates in Jiangnan September*, selected for “Xieyi Suzhou” (Bird-and-Flower Section) Chinese Painting Biennale, Suzhou Art Museum, Suzhou.
+- **2021** — *Green Mountains, New Homeland*, selected for “United in Heart, Celebrating the Centenary: Painting and Calligraphy Exhibition for the 100th Anniversary,” Wumen Art Museum, Suzhou.
+- **2022.09** — *Mountain Village at Dawn*, “Welcoming the 20th National Congress · Embarking on a New Journey” Painting and Calligraphy Exhibition, Wumen Art Museum, Suzhou.
+- **2023.06** — “Moving Forward Together with Courage — Painting and Calligraphy Exhibition Commemorating the 75th Anniversary of the ‘May 1st Slogans’,” National Centre for the Performing Arts Art Museum, Beijing.
+- **2023.10** — “Strengthening the Foundation and Uniting for a New Journey — Painting and Calligraphy Exhibition Commemorating the 65th Anniversary of the Founding of the Suzhou Municipal Committee,” Wumen Art Museum, Suzhou.
+- **2024.09** — “Painting the Shared Vision, Writing the Celebration with Ink — Painting and Calligraphy Exhibition Celebrating the 75th Anniversary of the Founding of the People’s Republic of China,” Xuzhou Art Museum, Xuzhou.
+- **2024.09** — “Suzhou Minge and the Whampoa Spirit” — Painting and Calligraphy Exhibition Commemorating the 115th Anniversary of the Founding of the Nanshe and the 100th Anniversary of the Whampoa Military Academy, Wumen Art Museum, Suzhou.
+- **2024.11** — “Shared Chinese Roots, Splendid Resonance” — 2024 Cross-Strait Harmony Painting and Calligraphy Exhibition, Lingshan Brahma Palace, Wuxi.
+- **2025.03** — “With One Heart, Praising the Land; With Ink, Painting the Future” — Wuxi Zhongshan Painting and Calligraphy Academy Exhibition, Wuxi Zhongxiang Art Museum, Wuxi.
+- **2025.08** — “Carrying Forward the Spirit of Resistance, Gathering Strength for Rejuvenation — Cross-Strait Youth Art Exhibition Commemorating the 80th Anniversary of the Victory of the Chinese People’s War of Resistance and the World Anti-Fascist War,” Taiwan Town Art Museum, Zhenjiang, Jiangsu.
