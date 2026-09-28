@@ -4,7 +4,7 @@ title: "About"
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/IMG_6888.jpeg
+  overlay_image: /assets/images/IMG_6888.jpeg
   overlay_filter: 0.4
 ---
 
