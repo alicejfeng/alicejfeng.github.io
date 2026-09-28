@@ -8,9 +8,7 @@ author_profile: true
 
 Alice Jia Feng is an artist.She graduated from the University of Edinburgh with a social anthropology master degree distinction.
 
-## group exhibition
-
-- 
+## Group Exhibition
 2025.08
 Art Exhibition Commemorating the 80th Anniversary of the Victory in the Chinese People's War of Resistance by the Cross-strait Youth  
 Location: Art Museum of Jiangsu Taiwan Town, Suzhou, Jiangsu
