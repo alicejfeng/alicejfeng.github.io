@@ -11,11 +11,11 @@ Alice Jia Feng is an artist. She graduated with distinction from the University 
 ## Group Exhibition
 - **2015.01** — "Memories of Dreams" The First Edinburgh Student Art Festival (Visual Arts).
 - **2018** — "Shan Hai Jing" (Classic of Mountains and Rivers) First Jiangsu New Year Paintings, Comic Strips, Promotion Posters, Cartoons, and Illustrations
-- Suzhou Hanshan Art Museum, Suzhou, Jiangsu
-- Jiangsu Provincial Modern Art Museum, Suzhou, Jiangsu
-- Yangzhou Art Museum, Yangzhou, Jiangsu
-- Xuzhou Li Keran Art Museum, Xuzhou, Jiangsu
-- Xuzhou Art Museum, Xuzhou, Jiangsu.
+-     Suzhou Hanshan Art Museum, Suzhou, Jiangsu
+-     Jiangsu Provincial Modern Art Museum, Suzhou, Jiangsu
+-     Yangzhou Art Museum, Yangzhou, Jiangsu
+-     Xuzhou Li Keran Art Museum, Xuzhou, Jiangsu
+-     Xuzhou Art Museum, Xuzhou, Jiangsu.
 - **2020** — "Gangdengtengbu Xieqintu" (Excellence Award) "Xiangning Rugu" The Second National Art Exhibition (Chinese Paintings and Oil Paintings) (Excellence Award) by China Artists Association. National Art Museum of China, Beijing
 - **2021** — "Jiangnan's Pomegranates in September" "Xieyi·Suzhou" Biennial Chinese Painting Exhibition (Birds and Flowers Chapter) by China Artists Association. Suzhou Art Museum, Suzhou, Jiangsu
 - **2021** — "Green Mountains, New Homeland" Painting and Calligraphy Exhibition Celebrating the Centenary of the Communist Party of China. Wumen Art Museum, Suzhou, Jiangsu
