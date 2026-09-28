@@ -1,8 +1,11 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
 author_profile: true
 ---
+
+正文内容写在这里。
 
 Alice Jia Feng is an artist.She graduated from the University of Edinburgh with a social anthropology master degree distinction.
 
