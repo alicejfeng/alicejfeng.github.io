@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-<h2 class="section-title">“branchesketch”（postcard-sized）2024—</h2>
+<h2 class="section-title">“branchesketch”—</h2>
 
 <div class="artwork-grid artwork-grid--branches">
 
