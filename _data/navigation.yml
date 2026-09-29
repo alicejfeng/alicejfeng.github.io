@@ -1,7 +1,12 @@
 main:
-  - title: "works"
+  - title: "Works"
     url: /works/
-  - title: "about"
+    children:
+      - title: "Tree Series"
+        url: /works-trees/
+      - title: "Doodles"
+        url: /works-doodles/
+  - title: "About"
     url: /about/
-  - title: "contact"
+  - title: "Contact"
     url: /contact/
