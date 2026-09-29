@@ -105,5 +105,12 @@
   }
   .artwork-grid--branches .artwork-figure figcaption {
     font-size: 0.68rem;
-  }
+  }/* 作品说明文字：小字体 */
+.artwork-note {
+  font-size: 0.78rem;
+  line-height: 1.8;
+  color: #888;
+  letter-spacing: 0.02em;
+  margin-top: 3rem;
+}
 }
