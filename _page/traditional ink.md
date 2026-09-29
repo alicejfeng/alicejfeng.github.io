@@ -35,7 +35,14 @@ author_profile: false
       2021
     </figcaption>
   </figure>
-
+  <figure class="artwork-figure">
+    <img src="/assets/images/flyj.jpg" alt="Flyj">
+    <figcaption>
+      Ink on paper<br>
+      180cm × 97cm<br>
+      2020
+    </figcaption>
+  </figure>
 </div>
 
 
