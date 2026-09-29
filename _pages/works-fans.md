@@ -1,17 +1,32 @@
 ---
-permalink: /works-fans/
-title: "Fans"
+permalink: /works-fan/
+title: "Fan Series"
 layout: single
-author_profile: true
-gallery:
-  - url: /assets/images/works/fans1.jpg
-    image_path: /assets/images/works/fans1.jpg
-    alt: "Fans001"
-  - url: /assets/images/works/fans2.jpg
-    image_path: /assets/images/works/fans2.jpg
-    alt: "Fans002”
+author_profile: false
 ---
 
-{% include gallery %}
+<h2 class="section-title">Fan Series</h2>
 
-Friends on this planet.
+<div class="artwork-grid">
+
+  <figure class="artwork-figure">
+    <img src="/assets/images/fan1.jpg" alt="Fan 1">
+    <figcaption>
+      Coloured ink<br>
+      22cm × 21cm<br>
+      2023
+    </figcaption>
+  </figure>
+
+  <figure class="artwork-figure">
+    <img src="/assets/images/fan2.jpg" alt="Fan 2">
+    <figcaption>
+      Coloured ink<br>
+      22cm × 21cm<br>
+      2023
+    </figcaption>
+  </figure>
+
+</div>
+
+Fan Series
