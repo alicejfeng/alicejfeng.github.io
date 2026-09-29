@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-<h2 class="section-title">Traditional Ink</h2>
+<h2 class="section-title">Ink Paintings</h2>
 
 <div class="artwork-grid">
 
@@ -14,7 +14,7 @@ author_profile: false
     <figcaption>
       Ink on paper<br>
       50cm × 50cm<br>
-      2017
+      2024
     </figcaption>
   </figure>
 
@@ -23,7 +23,7 @@ author_profile: false
     <figcaption>
       Ink on paper<br>
       50cm × 50cm<br>
-      2017
+      2024
     </figcaption>
   </figure>
 
@@ -32,7 +32,7 @@ author_profile: false
     <figcaption>
       Ink on paper<br>
       180cm × 97cm<br>
-      2021
+      2024
     </figcaption>
   </figure>
 
@@ -41,9 +41,17 @@ author_profile: false
     <figcaption>
       Ink on paper<br>
       180cm × 97cm<br>
-      2020
+      2024
     </figcaption>
   </figure>
+
+  <figure class="artwork-figure">
+    <img src="/assets/images/pome.jpg" alt="Pome">
+    <figcaption>
+      Ink on paper<br>
+      180cm × 97cm<br>
+      2021
+    </figcaption>
+  </figure>
+
 </div>
-
-
