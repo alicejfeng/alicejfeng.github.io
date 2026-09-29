@@ -35,6 +35,7 @@ author_profile: false
       2021
     </figcaption>
   </figure>
+
   <figure class="artwork-figure">
     <img src="/assets/images/flyj.jpg" alt="Flyj">
     <figcaption>
