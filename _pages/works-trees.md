@@ -5,6 +5,12 @@ layout: single
 author_profile: false
 ---
 
+<div class="artwork-note">
+
+I love wandering in the woods, where every step feels like a quiet conversation with nature. The rustle of leaves, the scent of damp earth, and the soft light filtering through branches create a living breath that helps me feel connected to nature.
+
+</div>
+
 <h2 class="section-title">Trees in Palette</h2>
 
 <div class="artwork-grid">
@@ -146,8 +152,3 @@ author_profile: false
 
 </div>
 
-<div class="artwork-note">
-
-I love wandering in the woods, where every step feels like a quiet conversation with nature. The rustle of leaves, the scent of damp earth, and the soft light filtering through branches create a living breath that helps me feel connected to nature.
-
-</div>
