@@ -6,7 +6,11 @@ main:
         url: /works-trees/
       - title: "Doodles"
         url: /works-doodles/
+      - title: "Fan Series"
+        url: /works-fan/
   - title: "About"
     url: /about/
+  - title: "Exhibitions"
+    url: /exhibitions/
   - title: "Contact"
     url: /contact/
