@@ -22,5 +22,41 @@
   .section-title {
     font-size: 1.1rem;
     letter-spacing: 0.1em;
+  
+/* Branches 网格：电脑端一行5个，图片更小，间距更宽 */
+.artwork-grid--branches {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 3.5rem 2rem;        /* 上下间距3.5rem，左右2rem */
+  margin: 2rem 0 4rem;
+}
+
+.artwork-grid--branches .artwork-figure img {
+  max-width: 150px;        /* 图片更小，想再小改130px */
+}
+
+.artwork-grid--branches .artwork-figure figcaption {
+  font-size: 0.72rem;      /* 说明文字也小一点 */
+}
+
+/* 平板：一行3个 */
+@media (max-width: 1024px) {
+  .artwork-grid--branches {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem 1.5rem;
+  }
+}
+
+/* 手机：一行2个，图片小，间距足 */
+@media (max-width: 600px) {
+  .artwork-grid--branches {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem 1rem;
+  }
+  .artwork-grid--branches .artwork-figure img {
+    max-width: 120px;
+  }
+  .artwork-grid--branches .artwork-figure figcaption {
+    font-size: 0.68rem;
   }
 }
