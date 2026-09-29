@@ -10,7 +10,7 @@ author_profile: true
 <div class="artwork-grid artwork-grid--branches">
 
   <figure class="artwork-figure">
-    <img src="/assets/images/works/branches1.jpg" alt="Branch 1">
+    <img src="/assets/images/branches1.jpg" alt="Branch 1">
     <figcaption>
       Coloured ink<br>
       10cm × 15cm<br>
@@ -19,7 +19,7 @@ author_profile: true
   </figure>
 
   <figure class="artwork-figure">
-    <img src="/assets/images/works/branches2.jpg" alt="Branch 2">
+    <img src="/assets/images/branches2.jpg" alt="Branch 2">
     <figcaption>
       Coloured ink<br>
       10cm × 15cm<br>
@@ -28,7 +28,7 @@ author_profile: true
   </figure>
 
   <figure class="artwork-figure">
-    <img src="/assets/images/works/branches3.jpg" alt="Branch 3">
+    <img src="/assets/images/branches3.jpg" alt="Branch 3">
     <figcaption>
       Coloured ink<br>
       10cm × 15cm<br>
@@ -37,7 +37,7 @@ author_profile: true
   </figure>
 
   <figure class="artwork-figure">
-    <img src="/assets/images/works/branches4.jpg" alt="Branch 4">
+    <img src="/assets/images/branches4.jpg" alt="Branch 4">
     <figcaption>
       Coloured ink<br>
       10cm × 15cm<br>
@@ -46,7 +46,7 @@ author_profile: true
   </figure>
 
   <figure class="artwork-figure">
-    <img src="/assets/images/works/branches5.jpg" alt="Branch 5">
+    <img src="/assets/images/branches5.jpg" alt="Branch 5">
     <figcaption>
       Coloured ink<br>
       10cm × 15cm<br>
@@ -55,7 +55,7 @@ author_profile: true
   </figure>
 
   <figure class="artwork-figure">
-    <img src="/assets/images/works/branches6.jpg" alt="Branch 6">
+    <img src="/assets/images/branches6.jpg" alt="Branch 6">
     <figcaption>
       Coloured ink<br>
       10cm × 15cm<br>
@@ -64,7 +64,7 @@ author_profile: true
   </figure>
 
   <figure class="artwork-figure">
-    <img src="/assets/images/works/branches7.jpg" alt="Branch 7">
+    <img src="/assets/images/branches7.jpg" alt="Branch 7">
     <figcaption>
       Coloured ink<br>
       10cm × 15cm<br>
@@ -73,7 +73,7 @@ author_profile: true
   </figure>
 
   <figure class="artwork-figure">
-    <img src="/assets/images/works/branches8.jpg" alt="Branch 8">
+    <img src="/assets/images/branches8.jpg" alt="Branch 8">
     <figcaption>
       Coloured ink<br>
       10cm × 15cm<br>
@@ -82,7 +82,7 @@ author_profile: true
   </figure>
 
   <figure class="artwork-figure">
-    <img src="/assets/images/works/branches9.jpg" alt="Branch 9">
+    <img src="/assets/images/branches9.jpg" alt="Branch 9">
     <figcaption>
       Coloured ink<br>
       10cm × 15cm<br>
@@ -91,7 +91,7 @@ author_profile: true
   </figure>
 
   <figure class="artwork-figure">
-    <img src="/assets/images/works/branches10.jpg" alt="Branch 10">
+    <img src="/assets/images/branches10.jpg" alt="Branch 10">
     <figcaption>
       Coloured ink<br>
       10cm × 15cm<br>
