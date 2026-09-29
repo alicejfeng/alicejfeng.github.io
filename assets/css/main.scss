@@ -183,4 +183,40 @@
     overflow-x: hidden;
   }
 }
+@media (max-width: 600px) {
+  .artwork-grid--branches {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));  /* 关键：minmax(0,1fr) */
+    gap: 2rem 0.6rem;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .artwork-grid--branches .artwork-figure {
+    min-width: 0;          /* 关键：防止子项被内容撑开 */
+    max-width: 100%;
+  }
+
+  .artwork-grid--branches .artwork-figure img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .artwork-grid--branches .artwork-figure figcaption {
+    font-size: 0.68rem;
+    padding: 0 0.1rem;
+    word-break: break-word;   /* 防止长文字撑宽 */
+  }
+}
+
+@media (max-width: 600px) {
+  .page__content,
+  .page__inner-wrap {
+    overflow-x: hidden;
+    max-width: 100%;
+  }
+}
 
