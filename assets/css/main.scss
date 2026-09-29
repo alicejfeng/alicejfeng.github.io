@@ -4,10 +4,12 @@
 
 @import "minimal-mistakes";
 
-/* ===== 通用作品网格：电脑端一行4个 ===== */
+/* ============================================================
+   1. 通用作品网格：电脑端一行4个
+   ============================================================ */
 .artwork-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 3rem 2rem;
   margin: 2rem 0 4rem;
 }
@@ -15,6 +17,7 @@
 .artwork-figure {
   margin: 0;
   text-align: center;
+  min-width: 0;
 }
 
 .artwork-figure img {
@@ -35,10 +38,12 @@
   letter-spacing: 0.02em;
 }
 
-/* ===== Branches 网格：电脑端一行5个 ===== */
+/* ============================================================
+   2. Branches 网格：电脑端一行5个，图片更小
+   ============================================================ */
 .artwork-grid--branches {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 3.5rem 2rem;
   margin: 2rem 0 4rem;
 }
@@ -51,7 +56,9 @@
   font-size: 0.72rem;
 }
 
-/* ===== 分类小标题 + 下划线 ===== */
+/* ============================================================
+   3. 分类小标题 + 下划线
+   ============================================================ */
 .section-title {
   font-family: 'Times New Roman', Georgia, serif;
   font-size: 1.4rem;
@@ -68,44 +75,9 @@
   margin-top: 1rem;
 }
 
-/* ===== 平板 ===== */
-@media (max-width: 1024px) {
-  .artwork-grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2.5rem 1.5rem;
-  }
-  .artwork-grid--branches {
-    grid-template-columns: repeat(3, 1fr);
-    gap: 3rem 1.5rem;
-  }
-}
-
-/* ===== 手机 ===== */
-@media (max-width: 600px) {
-  .artwork-grid {
-    grid-template-columns: 1fr;
-    gap: 2.5rem;
-  }
-  .artwork-figure img {
-    max-width: 260px;
-  }
-  .artwork-figure figcaption {
-    font-size: 0.85rem;
-  }
-  .section-title {
-    font-size: 1.1rem;
-    letter-spacing: 0.1em;
-  }
-  .artwork-grid--branches {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2.5rem 1rem;
-  }
-  .artwork-grid--branches .artwork-figure img {
-    max-width: 120px;
-  }
-  .artwork-grid--branches .artwork-figure figcaption {
-    font-size: 0.68rem;
-  }/* 作品说明文字：小字体 */
+/* ============================================================
+   4. 作品说明文字：小字体
+   ============================================================ */
 .artwork-note {
   font-size: 0.78rem;
   line-height: 1.8;
@@ -113,110 +85,139 @@
   letter-spacing: 0.02em;
   margin-top: 3rem;
 }
+
+.artwork-note p {
+  font-size: 0.78rem;
+  line-height: 1.8;
+  color: #888;
+  letter-spacing: 0.02em;
+  margin-bottom: 1.2rem;
 }
 
-/* 作品页内容占满宽度，去掉侧边栏占位 */
+.artwork-note a {
+  color: #b38b5f;
+  border-bottom: 1px solid transparent;
+}
+
+.artwork-note a:hover {
+  border-bottom: 1px solid #b38b5f;
+}
+
+/* 展览列表小字体 */
+.artwork-note ul,
+.artwork-note ol {
+  font-size: 0.78rem;
+  line-height: 1.8;
+  color: #888;
+  letter-spacing: 0.02em;
+}
+
+.artwork-note ul li,
+.artwork-note ol li {
+  margin-bottom: 0.6rem;
+}
+
+/* ============================================================
+   5. 作品页内容占满宽度，去掉侧边栏
+   ============================================================ */
 .page__content {
   width: 100% !important;
   max-width: 100% !important;
   float: none !important;
 }
 
-/* 如果侧边栏还在占位，直接隐藏 */
 .sidebar {
   display: none !important;
 }
 
-/* 内容容器也撑满 */
 .page__inner-wrap {
   width: 100% !important;
   max-width: 100% !important;
 }
 
-/* 手机端：图片在上，三行文字在下，垂直排列 */
-@media (max-width: 600px) {
-  .artwork-figure {
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important;
-    text-align: center !important;
+/* ============================================================
+   6. 平板（≤1024px）
+   ============================================================ */
+@media (max-width: 1024px) {
+  .artwork-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2.5rem 1.5rem;
   }
-
-  .artwork-figure img {
-    display: block !important;
-    width: auto !important;
-    max-width: 260px !important;
-    margin: 0 auto !important;
-  }
-
-  .artwork-figure figcaption {
-    display: block !important;
-    width: 100% !important;
-    margin-top: 0.8rem !important;
-    text-align: center !important;
-    font-size: 0.85rem !important;
-  }
-}
-/* 手机端 branches：两列，不超出屏幕 */
-@media (max-width: 600px) {
   .artwork-grid--branches {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2rem 0.5rem;        /* 左右间距从 1rem 减到 0.5rem */
-    width: 100%;
-    max-width: 100%;
-    box-sizing: border-box;
-  }
-
-  .artwork-grid--branches .artwork-figure img {
-    max-width: 100%;          /* 图片宽度跟随列宽，不再固定 120px */
-    width: 100%;
-  }
-
-  .artwork-grid--branches .artwork-figure figcaption {
-    font-size: 0.68rem;
-    padding: 0 0.2rem;        /* 文字两侧留一点余量 */
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 3rem 1.5rem;
   }
 }
 
+/* ============================================================
+   7. 手机（≤600px）
+   ============================================================ */
 @media (max-width: 600px) {
-  .page__content {
-    overflow-x: hidden;
-  }
-}
-@media (max-width: 600px) {
-  .artwork-grid--branches {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));  /* 关键：minmax(0,1fr) */
-    gap: 2rem 0.6rem;
-    width: 100%;
-    max-width: 100%;
-    box-sizing: border-box;
-  }
 
-  .artwork-grid--branches .artwork-figure {
-    min-width: 0;          /* 关键：防止子项被内容撑开 */
-    max-width: 100%;
-  }
-
-  .artwork-grid--branches .artwork-figure img {
-    width: 100%;
-    max-width: 100%;
-    height: auto;
-    display: block;
-  }
-
-  .artwork-grid--branches .artwork-figure figcaption {
-    font-size: 0.68rem;
-    padding: 0 0.1rem;
-    word-break: break-word;   /* 防止长文字撑宽 */
-  }
-}
-
-@media (max-width: 600px) {
+  /* 防止横向溢出 */
   .page__content,
   .page__inner-wrap {
     overflow-x: hidden;
     max-width: 100%;
   }
-}
 
+  /* 通用网格：一行1个 */
+  .artwork-grid {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  /* 作品单元：图片在上，文字在下 */
+  .artwork-figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .artwork-figure img {
+    width: auto;
+    max-width: 260px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .artwork-figure figcaption {
+    width: 100%;
+    margin-top: 0.8rem;
+    text-align: center;
+    font-size: 0.85rem;
+  }
+
+  /* 小标题缩小 */
+  .section-title {
+    font-size: 1.1rem;
+    letter-spacing: 0.1em;
+  }
+
+  /* Branches：两列，图片小，不溢出 */
+  .artwork-grid--branches {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2.5rem 0.8rem;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .artwork-grid--branches .artwork-figure img {
+    width: 100%;
+    max-width: 130px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .artwork-grid--branches .artwork-figure figcaption {
+    font-size: 0.68rem;
+    padding: 0 0.1rem;
+    word-break: break-word;
+  }
+}
