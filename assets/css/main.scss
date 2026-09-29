@@ -157,3 +157,24 @@
     font-size: 0.85rem !important;
   }
 }
+/* 手机端 branches：两列，不超出屏幕 */
+@media (max-width: 600px) {
+  .artwork-grid--branches {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem 0.5rem;        /* 左右间距从 1rem 减到 0.5rem */
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .artwork-grid--branches .artwork-figure img {
+    max-width: 100%;          /* 图片宽度跟随列宽，不再固定 120px */
+    width: 100%;
+  }
+
+  .artwork-grid--branches .artwork-figure figcaption {
+    font-size: 0.68rem;
+    padding: 0 0.2rem;        /* 文字两侧留一点余量 */
+  }
+}
+
