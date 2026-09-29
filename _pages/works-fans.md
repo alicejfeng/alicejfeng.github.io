@@ -1,11 +1,11 @@
 ---
-permalink: /works-fan/
+permalink: /works-fans/
 title: "Fan Series"
 layout: single
 author_profile: false
 ---
 
-<h2 class="section-title">Fan Series</h2>
+<h2 class="section-title">Into the Screens</h2>
 
 <div class="artwork-grid">
 
