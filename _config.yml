@@ -56,7 +56,8 @@ author:
   avatar : "/assets/images/IMG_6900.jpeg"
   bio    : "a fieldworker"
 
-
+plugins:
+  - jekyll-feed
 defaults:
   # _posts
   - scope:
