@@ -132,3 +132,28 @@
   width: 100% !important;
   max-width: 100% !important;
 }
+
+/* 手机端：图片在上，三行文字在下，垂直排列 */
+@media (max-width: 600px) {
+  .artwork-figure {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+  }
+
+  .artwork-figure img {
+    display: block !important;
+    width: auto !important;
+    max-width: 260px !important;
+    margin: 0 auto !important;
+  }
+
+  .artwork-figure figcaption {
+    display: block !important;
+    width: 100% !important;
+    margin-top: 0.8rem !important;
+    text-align: center !important;
+    font-size: 0.85rem !important;
+  }
+}
