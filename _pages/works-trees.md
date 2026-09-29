@@ -2,7 +2,7 @@
 permalink: /works-trees/
 title: "Tree Series"
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 <h2 class="section-title">Trees in Palette</h2>
