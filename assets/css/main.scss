@@ -114,3 +114,21 @@
   margin-top: 3rem;
 }
 }
+
+/* 作品页内容占满宽度，去掉侧边栏占位 */
+.page__content {
+  width: 100% !important;
+  max-width: 100% !important;
+  float: none !important;
+}
+
+/* 如果侧边栏还在占位，直接隐藏 */
+.sidebar {
+  display: none !important;
+}
+
+/* 内容容器也撑满 */
+.page__inner-wrap {
+  width: 100% !important;
+  max-width: 100% !important;
+}
