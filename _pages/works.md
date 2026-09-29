@@ -10,6 +10,5 @@ author_profile: true
 - [trees](/works-trees/)
 - [bamboos](/works-bamboos/)
 - [fans](/works-fans/)
-- [flowers](/works-flowers/)
 - [doodles](/works-doodles/)
 - [photographs](/works-photographs/)
