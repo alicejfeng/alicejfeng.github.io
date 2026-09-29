@@ -101,4 +101,8 @@ author_profile: false
 
 </div>
 
+<div class="artwork-note">
+
 I love doodling and sketching while traveling, capturing the sights and sounds around me as they happen. Through these spontaneous drawings, I try to keep the freshness of travel alive, turning everyday encounters into little records of where I’ve been and what I felt.
+
+</div>
