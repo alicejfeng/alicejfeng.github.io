@@ -14,7 +14,7 @@ author_profile: false
     <figcaption>
       Coloured ink<br>
       22cm × 21cm<br>
-      2023
+      2022
     </figcaption>
   </figure>
 
@@ -23,10 +23,8 @@ author_profile: false
     <figcaption>
       Coloured ink<br>
       22cm × 21cm<br>
-      2023
+      2022
     </figcaption>
   </figure>
 
 </div>
-
-Fan Series
