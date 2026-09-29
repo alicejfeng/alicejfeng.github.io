@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 layout: single
-author_profile: true
+author_profile: false
 header:
   overlay_image: /assets/images/IMG_6898.jpeg
   overlay_filter: 0.4
