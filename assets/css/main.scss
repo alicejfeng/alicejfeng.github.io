@@ -178,3 +178,9 @@
   }
 }
 
+@media (max-width: 600px) {
+  .page__content {
+    overflow-x: hidden;
+  }
+}
+
