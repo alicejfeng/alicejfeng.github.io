@@ -2,7 +2,7 @@
 permalink: /works-doodles/
 title: "Doodles"
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 <h2 class="section-title">“branchesketch”—</h2>
