@@ -10,7 +10,5 @@ main:
         url: /works-fan/
   - title: "About"
     url: /about/
-  - title: "Exhibitions"
-    url: /exhibitions/
   - title: "Contact"
     url: /contact/
