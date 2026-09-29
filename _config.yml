@@ -16,8 +16,6 @@
 title: Alice Jia Feng's studio
 email: jiaf222222@gmail.com
 description: "This is Alice Jia Feng's personal website."
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -55,34 +53,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Alice Jia"
+  name   : "Alice Jia Feng"
   avatar : "/assets/images/IMG_6900.jpeg"
-  bio    : "passion for nature"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  bio    : "a fieldworker"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
