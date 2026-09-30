@@ -45,21 +45,21 @@
 /* ============================================================
    2. Branches 网格：电脑端一行5个，图片更小
    ============================================================ */
+/* ===== Branches 网格：电脑端一行4个 ===== */
 .artwork-grid--branches {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 3.5rem 2rem;
   margin: 2rem 0 4rem;
 }
 
 .artwork-grid--branches .artwork-figure img {
-  max-width: 150px;
+  max-width: 170px;   /* 从 150px 稍大一点，一行4个不显小 */
 }
 
 .artwork-grid--branches .artwork-figure figcaption {
   font-size: 0.72rem;
 }
-
 /* ============================================================
    3. 分类小标题 + 下划线
    ============================================================ */
@@ -143,16 +143,11 @@
    6. 平板（≤1024px）
    ============================================================ */
 @media (max-width: 1024px) {
-  .artwork-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 2.5rem 1.5rem;
-  }
   .artwork-grid--branches {
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 3rem 1.5rem;
   }
 }
-
 /* ============================================================
    7. 手机（≤600px）
    ============================================================ */
