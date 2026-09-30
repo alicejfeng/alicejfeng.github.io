@@ -172,25 +172,26 @@
   }
 
   /* 作品单元：图片在上，文字在下 */
-  .artwork-figure {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    min-width: 0;
-    max-width: 100%;
-  }
+  
+ .artwork-figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  min-width: 0;
+  max-width: 100%;
+}
 
-  .artwork-figure img {
-    width: auto;
-    max-width: 260px;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-  }
+.artwork-figure img {
+  width: 260px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
 
- .artwork-figure figcaption {
-  width: 100%;
+.artwork-figure figcaption {
+  width: 260px;
+  max-width: 100%;
   margin-top: 0.8rem;
   text-align: left;
   font-size: 0.85rem;
