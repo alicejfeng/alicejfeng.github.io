@@ -36,6 +36,7 @@
   line-height: 1.7;
   color: #888;
   letter-spacing: 0.02em;
+  text-align: left;        /* 只加这一行 */
 }
 
 /* ============================================================
@@ -185,12 +186,12 @@
     margin: 0 auto;
   }
 
-  .artwork-figure figcaption {
-    width: 100%;
-    margin-top: 0.8rem;
-    text-align: center;
-    font-size: 0.85rem;
-  }
+ .artwork-figure figcaption {
+  width: 100%;
+  margin-top: 0.8rem;
+  text-align: left;
+  font-size: 0.85rem;
+}
 
   /* 小标题缩小 */
   .section-title {
