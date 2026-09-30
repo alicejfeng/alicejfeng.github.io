@@ -15,28 +15,31 @@
 }
 
 .artwork-figure {
-  margin: 0;
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;    /* 图片和文字一起在单元格里居中 */
+  text-align: left;       /* 文字左对齐 */
   min-width: 0;
 }
 
 .artwork-figure img {
   width: 100%;
-  max-width: 220px;
+  max-width: 220px;       /* 图片最大宽度 */
   height: auto;
   border: 1px solid #ddd;
   border-radius: 2px;
   display: block;
-  margin: 0 auto;
 }
 
 .artwork-figure figcaption {
+  width: 100%;
+  max-width: 220px;       /* 和图片一样宽，文字从左边缘开始 */
   margin-top: 0.7rem;
   font-size: 0.78rem;
   line-height: 1.7;
   color: #888;
   letter-spacing: 0.02em;
-  text-align: left;        /* 只加这一行 */
+  text-align: left;
 }
 
 /* ============================================================
