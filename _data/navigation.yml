@@ -2,14 +2,16 @@ main:
   - title: "Works"
     url: /works/
     children:
-      - title: "Tree"
+      - title: "Tree Series"
         url: /works-trees/
-        - title: "Bamboos"
-        url: /works-bamboo/
       - title: "Doodles"
         url: /works-doodles/
       - title: "Fan Series"
         url: /works-fan/
+      - title: "Bamboo Series"
+        url: /works-bamboo/
+      - title: "Traditional Ink"
+        url: /traditional-ink/
   - title: "About"
     url: /about/
   - title: "Contact"
