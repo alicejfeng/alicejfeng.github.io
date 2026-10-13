@@ -30,4 +30,4 @@ author_profile: false
 {% endfor %}
 </div>
 
-Bamboo Series 创作说明写在这里。
+
