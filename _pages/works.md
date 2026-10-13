@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 - [trees](/works-trees/)
-- [fans](/works-fans/)
+- [bamboos](/works-bamboo/)
 - [doodles](/works-doodles/)
