@@ -13,7 +13,6 @@ author_profile: false
     <img src="/assets/images/bamboo{{ i }}.jpg" alt="Bamboo {{ i }}">
     <figcaption>
       Watercolour on paper<br>
-      15cm × 15cm<br>
       2025
     </figcaption>
   </figure>
@@ -23,7 +22,6 @@ author_profile: false
     <img src="/assets/images/bamboo{{ i }}.jpg" alt="Bamboo {{ i }}">
     <figcaption>
       Watercolour on paper<br>
-      24cm × 27cm<br>
       2026
     </figcaption>
   </figure>
