@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="artwork-note" markdown="1">
 
-Alice Jia Feng is an artist. She graduated with distinction from the University of Edinburgh, earning a Master's degree in Social Anthropology. She began studying traditional Chinese painting in childhood and has since exhibited her work in national, provincial, and local art museums across China.
+Alice Jia Feng is an artist. She began studying traditional Chinese painting since childhood and has exhibited her works in national, provincial, and local art museums and galleries across China.
 
 [View Group Exhibitions →](/exhibitions/)
 
