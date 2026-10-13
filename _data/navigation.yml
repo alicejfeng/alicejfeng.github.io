@@ -2,8 +2,10 @@ main:
   - title: "Works"
     url: /works/
     children:
-      - title: "Tree Series"
+      - title: "Tree"
         url: /works-trees/
+        - title: "Bamboos"
+        url: /works-bamboo/
       - title: "Doodles"
         url: /works-doodles/
       - title: "Fan Series"
